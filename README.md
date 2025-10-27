@@ -1,8 +1,7 @@
 ## Hi there 👋
 I'm Ahmed Nimatullahi Inya-Oyiza
-### Aspiring Data Analyst • Abuja, Nigeria, Remote
-
-I am passionate about using data to solve real-world problems. I enjoy working with datasets, uncovering trends, and communicating insights using data visualization tools.
+### Aspiring Data Analyst • Abuja, Nigeria
+Driven by curiosity and problem-solving, I focus on transforming raw data into valuable insights. I love uncovering patterns, interpreting results, and communicating findings in a way that supports informed decision-making.
 🔧 Skills & Tools
 - **Data Analysis:** Excel, SQL, Tableau (Beginner)
 - **Statistics & Research Methods**
